@@ -1,0 +1,6 @@
+﻿.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+*_OLD_ROOT.ipynb
+__pycache__/
+*.pyc
+.DS_Store
